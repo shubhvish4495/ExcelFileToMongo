@@ -1,6 +1,9 @@
 # ExcelFileToMongo
 Read excel file and upload it to mongo database
 
+#Software Requirements:
+ 1. Python 3.7.2 https://www.python.org/downloads/release/python-372/
+
 # For Windows :
 Run install_dependencies.bat file to install dependencies.
 
